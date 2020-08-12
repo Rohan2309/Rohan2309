@@ -12,3 +12,5 @@ Linkedin - [Rohan Roy Chowdhury](https://www.linkedin.com/in/rohan-roy-chowdhury
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I like Economics and statistics apart from coding!
 
+
+<img src = "https://github-readme-stats.vercel.app/api?username=Rohan2309&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
