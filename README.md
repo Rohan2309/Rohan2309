@@ -7,6 +7,9 @@
 - 🤔 I’m looking for help with ML/Dl. 
 - 💬 Ask me about technical stuffs.I would be happy to help!
 - 📫 How to reach me: rohanroy2309@gmail.com
+[Instagram - @rohan._23_](https://www.instagram.com/rohan._23_/)
+
+[Linkedin - Rohan Roy Chowdhury](https://www.linkedin.com/in/rohan-roy-chowdhury-884619187/)
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I like Economics and statistics apart from coding!
 
