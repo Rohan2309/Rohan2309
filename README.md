@@ -47,5 +47,9 @@
 <br />
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan2309&layout=compact)](https://github.com/Rohan2309/github-readme-stats)
+
+
+<br />
 
 <img src = "https://github-readme-stats.vercel.app/api?username=Rohan2309&show_icons=true&theme=radical">
