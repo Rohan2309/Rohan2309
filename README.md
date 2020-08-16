@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on various web/app projects using Flutter,  React & Node.js in some organisations.
-- 🌱 I’m currently learning Augmented Reality.
+- 🌱 I’m currently learning Redux, gatsby.js, graphql along with Augmented Reality.
 - 👯 I’m looking to collaborate on projects that will lead to personal development.
 - 🤔 I’m looking for help with ML/DL. 
 - 💬 Ask me about technical stuffs.I would be happy to help!
