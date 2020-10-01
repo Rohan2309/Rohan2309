@@ -59,4 +59,6 @@
 
 <br />
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rohan2309" alt="profile vist counter" /> </p>
+
 <img src = "https://github-readme-stats.vercel.app/api?username=Rohan2309&show_icons=true&theme=radical">
