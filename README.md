@@ -1,4 +1,4 @@
-### Hey, I'm Rohan! 👋
+### Hi, I'm Rohan! 👋
 
 
 - 🔭 I’m currently working on various web/app projects using Flutter,  React & Node.js in some organisations.
