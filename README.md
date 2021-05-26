@@ -1,4 +1,4 @@
-### Hi, I'm Rohan! 👋
+### Hi, I'm Rohan! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
 
 - 🔭 I’m currently working on various web/app projects using Flutter,  React & Node.js in some organisations.
@@ -9,6 +9,8 @@
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I like Economics and statistics apart from coding!
 
+[My Portfolio Website⤴️](https://portfolio-612ed.web.app/)
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn"  height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rohan-roy-chowdhury-884619187/)
@@ -16,8 +18,6 @@
 
 <br />
 <br />
-
-[My Portfolio Website](https://portfolio-612ed.web.app/)
 
 ### Tools
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
