@@ -1,11 +1,11 @@
 ### Hi, I'm Rohan! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
 
-- 🔭 I’m currently working on various web/app projects using Flutter,  React & Node.js in some organisations.
+- 🔭 I’m currently working at Maersk as an Intern on various web/app projects using Salesforce,  React & Node.js .
 - 🌱 I’m currently improving my pre-existing skills especially DSA.
 - 👯 I’m looking to collaborate on projects that will lead to personal development.
 - 💬 Ask me about technical stuffs.I would be happy to help!
-- 📫 How to reach me: rohanroy2309@gmail.com .
+- 📫 How to reach me: rohan2309work@gmail.com .
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I like Economics and statistics apart from coding!
 
